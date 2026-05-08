@@ -1,0 +1,7 @@
+node_modules
+.claude
+debug-output/
+debug-output-baseline/
+test-results/
+playwright-report/
+playwright/.cache/
